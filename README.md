@@ -23,3 +23,7 @@ Solution:
 ![Screenshot (54)](https://user-images.githubusercontent.com/81346561/170851035-abc82305-7f1a-4aea-8bc4-8b44ec1f3a72.png)
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/81346561/170851043-4ed1bcb0-bb6e-43eb-a812-1ce79377be41.png)
+
+# To make the project more explainatory here is a sample report for the sample
+[DATA ANALYSIS.docx](https://github.com/sayankita/Microsoft-Intern-Engage-2022/files/8792599/DATA.ANALYSIS.docx)
+
