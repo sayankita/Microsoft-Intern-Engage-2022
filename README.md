@@ -13,3 +13,4 @@ Solution:
     For an industry working for satisfying the customers demands what else is better then knowing what the customer likes and dislikes about a particular company's           product so for this purpose I have added the feature to my app wherein the user could read the tweets, for this I have used the twitter API for which I had to create     an account on the twitter developers and after 1-2 days the authority granted me the permission for the same.
 
  
+![75af674f3a29270727476250f41832f7](https://user-images.githubusercontent.com/81346561/170850871-037ad3d5-30ed-42c1-a02e-478ea54174fa.jpg)
