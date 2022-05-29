@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data visualization with chart.js</title>
+    <script src="https://rawgit.com/moment/moment/2.2.1/min/moment.min.js"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/chart.min.js"> </script>
+
+    </script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Side Navbar -->
+        <div class="sidebar">
+            <div class="logo">
+                <img src="NEWGEN BI.png">
+            </div>
+            <p class="side-nav-header">Admin Console</p>
+            <div class="side-nav-elements">
+                <div class="side-nav-element"><i class="material-icons">home</i>Home</div>
+                <div class="side-nav-element"><i class="material-icons">dashboard</i>Dashboard</div>
+                <div class="side-nav-element"><i class="material-icons">bar_chart</i>Reports</div>
+                <div class="side-nav-element"><i class="material-icons">event</i>Forecasting</div>
+                <div class="side-nav-element"><i class="material-icons">drag_handle</i>Limits</div>
+                <div class="side-nav-element"><i class="material-icons">launch</i>Product</div>
+            </div>
+            <p class="side-nav-header">Enter New Data Points</p>
+            <div class="side-nav-elements">
+                <div class="side-nav-element"><i class="material-icons">credit_card</i>Expenses</div>
+                <div class="side-nav-element"><i class="material-icons">euro_symbol</i>Income</div>
+                <div class="side-nav-element"><i class="material-icons">message</i>Messages</div>
+            </div>
+        </div>
+        <div class="main">
+            <!-- Main Header -->
+            <div class="header">
+                <div class="header-elements">
+                    <i class="header-element material-icons">search</i>
+                    <i class="header-element material-icons">settings</i>
+                    <i class="header-element material-icons">notifications_active</i>
+                    <img class="profile-img" src="sayankita.jpeg" alt="profile image of logged in user"></div>
+            </div>
+            <!-- Main Dashboard -->
+            <div class="dashboard">
+                <span class="welcome_message">Welcome <span class="welcome_message_name">Sayankita</span></span>
+                <div class="dashboard-header">
+                    <p> on NEWGEN BI </p>
+                    <div class="select-wrapper">
+                        <select name="datepicker" id="datepicker">
+                            <option value=" 2022"> 2022</option>
+                            <option value=" 2023"> 2023</option>
+                            <option value=" 2024"> 2024</option>
+                            <option value=" 2025"> 2025</option>
+                            <option value=" 2026"> 2026</option>
+                            <option value=" 2027"> 2027</option>
+                            <option value=" 2028"> 2028</option>
+                            <option value=" 2029"> 2029</option>
+                            <option value=" 2030"> 2030</option>
+                            <option value=" 2031"> 2031</option>
+                            <option value=" 2032"> 2032</option>
+                            <option value=" 2033"> 2033</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="dashboard-cards">
+                    <div class="card" id="card-1">
+                        <div class="chart-canvas">
+
+                        </div>
+                    </div>
+                    <div class="card"  id="card-2">
+                        <div class="chart-canvas">
+
+
+
+                        </div>
+                    </div>
+                    <div class="card"  id="card-3">
+                        <div class="chart-canvas">
+
+                        </div>
+                    </div>
+                    <div class="card"  id="card-4">
+                        <div class="chart-canvas">
+
+                        </div>
+                    </div>
+                    <div class="card"  id="card-4">
+                        <div class="chart-canvas">
+
+                        </div>
+                    </div>
+                    <div class="card"  id="card-4">
+                        <div class="chart-canvas">
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript"src="utility.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
