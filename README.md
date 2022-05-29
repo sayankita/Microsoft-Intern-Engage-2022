@@ -17,7 +17,6 @@ Solution:
 ![75af674f3a29270727476250f41832f7](https://user-images.githubusercontent.com/81346561/170850871-037ad3d5-30ed-42c1-a02e-478ea54174fa.jpg)
 
 # Here are some work snippets
-![Screenshot (52)](https://user-images.githubusercontent.com/81346561/170851020-4dd5784d-fd86-4e2d-aa71-a326caa85c8c.png)
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/81346561/170851029-d980c9d8-25a9-4fda-b816-b307c61c24d0.png)
 
