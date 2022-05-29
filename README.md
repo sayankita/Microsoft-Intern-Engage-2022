@@ -12,5 +12,15 @@ Solution:
 -For knowing the customer, search for the reviews about a particular company or product.
     For an industry working for satisfying the customers demands what else is better then knowing what the customer likes and dislikes about a particular company's           product so for this purpose I have added the feature to my app wherein the user could read the tweets, for this I have used the twitter API for which I had to create     an account on the twitter developers and after 1-2 days the authority granted me the permission for the same.
 
+# Road map of how I progressed in the past 4 weeks
  
 ![75af674f3a29270727476250f41832f7](https://user-images.githubusercontent.com/81346561/170850871-037ad3d5-30ed-42c1-a02e-478ea54174fa.jpg)
+
+# Here are some work snippets
+![Screenshot (52)](https://user-images.githubusercontent.com/81346561/170851020-4dd5784d-fd86-4e2d-aa71-a326caa85c8c.png)
+
+![Screenshot (53)](https://user-images.githubusercontent.com/81346561/170851029-d980c9d8-25a9-4fda-b816-b307c61c24d0.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/81346561/170851035-abc82305-7f1a-4aea-8bc4-8b44ec1f3a72.png)
+
+![Screenshot (55)](https://user-images.githubusercontent.com/81346561/170851043-4ed1bcb0-bb6e-43eb-a812-1ce79377be41.png)
